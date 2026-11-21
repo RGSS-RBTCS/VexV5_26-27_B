@@ -1,3 +1,3 @@
-﻿# VexV5_26-27
+﻿# VexV5_26-27-B
 
-Team B's codebase for Vex V5 robot for 26-27 "Override" season
+RGSS Robotics, Team A's codebase for Vex V5 2026-2027 "Override" season's robot.
